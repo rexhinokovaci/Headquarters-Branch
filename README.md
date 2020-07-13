@@ -1,5 +1,5 @@
 # Headquarters-Branch
-PSA: Everything has been changed according to my School Mandatory Rules where we are not obliged allegedly sharing projects online, so I worked twice as hard figuring hard creating a new schema and another toplogy which differs from the schopl. The IP-s are different from my school project, the Names and Colors are changed . Thank You! 
+PSA: Everything has been changed according to my School Mandatory Rules where we are not obliged allegedly sharing projects online, so I worked twice as hard figuring out how to create a new schema and another toplogy which differs from the school project. The IP-s are different from my school project, the Names and Colors are changed . Thank You! 
 
 ![Topology](https://user-images.githubusercontent.com/55946528/87252343-8848a700-c472-11ea-92b1-8d91b2762ce4.png)
 
